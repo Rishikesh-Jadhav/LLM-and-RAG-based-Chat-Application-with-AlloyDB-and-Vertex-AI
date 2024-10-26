@@ -60,7 +60,7 @@ The key components of the system include:
 - **Vertex AI**: Google Cloud’s platform for **generative AI models**. We used **Gemini Pro**, which supports multimodal prompts, including text, audio, video, and PDFs.
 - **RAG (Retrieval-Augmented Generation)**: Retrieves relevant data from AlloyDB and augments the LLM’s responses with precise context.
 
-![RAG Architecture](./path_to_your_image/rag_architecture.png)
+![RAG Architecture](RAG.png)
 
 The chat application follows a retrieval architecture:
 
