@@ -64,7 +64,7 @@ The key components of the system include:
 
 The chat application follows a retrieval architecture:
 
-1. User submits a query (e.g., flight information).
+1. User submits a query (e.g., flight information, airport amenity enquiries).
 2. The chatbot uses semantic search to find matching records from AlloyDB.
 3. Retrieved data is embedded into the LLM’s prompt via RAG.
 
