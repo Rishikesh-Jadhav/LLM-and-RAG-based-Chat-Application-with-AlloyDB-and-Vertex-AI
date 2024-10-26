@@ -122,7 +122,12 @@ This project achieved:
 
 ## Challenges and Resolutions
 
-- **[Add details about challenges and solutions here]**  
+- **Database Connection Issues**: Ensured the VM and AlloyDB were correctly configured in the same region.
+- **Python Environment Issues**: Re-activated the virtual environment with:
+  ```bash
+  source ~/.venv/bin/activate
+  ```
+- **API Access Errors**: Verified the API keys and reconfigured access to Vertex AI.
 
 ---
 
