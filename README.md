@@ -108,7 +108,7 @@ This project achieved:
 - Deployed the chat application.  
 - Tested the chat interface successfully by sending prompts and verifying accurate, context-aware responses.  
 
-![ChatBot](./path_to_your_image/chatbot_interface.png)
+![ChatBot](chatbot.png)
 
 ---
 
