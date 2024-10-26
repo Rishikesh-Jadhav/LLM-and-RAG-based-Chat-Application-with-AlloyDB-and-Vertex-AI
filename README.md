@@ -1,4 +1,4 @@
-# LLM and RAG-based Chat Application with AlloyDB and Vertex AI
+# LLM and RAG-based Chat Application with AlloyDB and Vertex AI for Flight & Airport Inquiries
 
 ## Table of Contents
 - [Overview](#overview)
